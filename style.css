@@ -1,0 +1,16 @@
+img{
+    width:300px;
+    height:600px;
+    border-radius:10px;
+}
+  html{
+      background-color: rgb(90, 104, 97);
+  }
+  h1,h4{
+      color:azure;
+  }
+  button{
+      border-radius:15px;
+      color:azure;
+      background-color:rgb(105, 122, 105);
+  }
